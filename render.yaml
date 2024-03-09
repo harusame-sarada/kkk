@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ogawa-no-chinpo
+    name: yuki334
     env: python
     region: Oregon
     plan: free
